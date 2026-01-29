@@ -1,9 +1,44 @@
-Hi there 👋, I’m Eric 
+# Hi there 👋, I'm Eric Chhun
 
-an aspiring Software Engineer passionate about building real-world applications, solving problems, and continuously learning. I enjoy turning ideas into working projects, from web apps and APIs to games and mobile applications, always looking for ways to bring ideas to life. My current focus is sharpening my skills in C++, Java, Python, and JavaScript while exploring both front-end and back-end development. I thrive on continuous learning and enjoy pushing myself to improve as a developer. My goal is to contribute to innovative engineering teams where I can apply my skills, grow with mentorship, and create technology that inspires.
+## Full Stack Software Engineer | Problem Solver | Continuous Learner
 
-connect with me:
-  https://www.linkedin.com/in/eric-chhun-1a615619a/
+I'm an aspiring software engineer passionate about building robust, real-world applications and solving complex problems. I specialize in turning innovative ideas into fully functional products—from web applications and RESTful APIs to scalable backend systems.
+
+### 🚀 What I Do
+- **Build**: Full-stack web applications with modern technologies
+- **Code**: Clean, maintainable, and well-documented code
+- **Learn**: Constantly expanding my skills and knowledge in software development
+- **Solve**: Complex problems with creative, efficient solutions
+
+### 🛠️ Tech Stack
+- **Languages**: JavaScript, Python, Java, and more
+- **Frontend**: React, HTML, CSS, Responsive Design
+- **Backend**: Node.js, Express, REST APIs
+- **Databases**: SQL, MongoDB
+- **Tools & Platforms**: Git, GitHub, VS Code, Docker
+
+### 💼 Experience & Goals
+Currently seeking opportunities to grow my professional experience through internships, collaborations, and meaningful projects. I'm eager to contribute to innovative teams and expand my expertise in software engineering.
+
+### 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Ericchhun67&color=blue)
+
+### 🤝 Let's Connect
+I'm always interested in collaborating, learning, and networking with fellow developers and tech professionals.
+
+- **LinkedIn**: [Eric Chhun](https://www.linkedin.com/in/eric-chhun-1a615619a/)
+- **GitHub**: [@Ericchhun67](https://github.com/Ericchhun67)
+- **Email**: eric.chhun58@gmail.com
+
+
+### 💡 Open to Opportunities
+- 💼 **Internships** - Eager to gain hands-on industry experience
+- 🤝 **Collaborations** - Always open to working on exciting projects
+- 📚 **Learning** - Passionate about mentorship and growing as a developer
+
+---
+
+
 
 
 
