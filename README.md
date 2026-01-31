@@ -11,7 +11,7 @@ I'm an aspiring software engineer passionate about building robust, real-world a
 - **Solve**: Complex problems with creative, efficient solutions
 
 ### 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, Java, and more
+- **Languages**: JavaScript, Python, Java, and c++
 - **Frontend**: React, HTML, CSS, Responsive Design
 - **Backend**: Node.js, Express, REST APIs, Flask
 - **Databases**: SQL, MongoDB
