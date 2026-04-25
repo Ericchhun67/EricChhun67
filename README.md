@@ -32,11 +32,22 @@ I'm currently seeking opportunities to grow as a software engineer through inter
 
 ### Let's Connect
 
-I'm always open to connecting with other developers, collaborating on projects, and learning from people in the tech community.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Let's+connect+and+build+something+great;Open+to+internships+and+collaboration;Always+learning+and+growing+as+a+developer" alt="Typing SVG" />
+</p>
 
-- **LinkedIn**: [Eric Chhun](https://www.linkedin.com/in/eric-chhun-1a615619a/)
-- **GitHub**: [@Ericchhun67](https://github.com/Ericchhun67)
-- **Email**: eric.chhun58@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/eric-chhun-1a615619a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eric%20Chhun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ericchhun67">
+    <img src="https://img.shields.io/badge/GitHub-Ericchhun67-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:eric.chhun58@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eric.chhun58%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
 ### Open to Opportunities
 
