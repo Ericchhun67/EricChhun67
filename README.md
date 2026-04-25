@@ -7,11 +7,24 @@
 </p>
 
 
-## Full-Stack Software Engineer | Problem Solver | Continuous Learner
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FFD700&height=220&section=header&text=Eric%20Chhun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Continuous%20Learner&descAlignY=58&descSize=18" />
+</p>
 
-Hi, I'm Eric Chhun, an aspiring software engineer focused on building practical, reliable, and real-world applications. I enjoy working across the full stack, from responsive user interfaces to RESTful APIs, backend systems, and databases.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+real-world+software+applications;Creating+responsive+frontends+and+RESTful+APIs;Learning+full-stack+and+embedded+systems;Solving+problems+one+project+at+a+time" alt="Typing SVG" />
+</p>
 
-I'm passionate about learning, improving my craft, and turning ideas into functional software that solves real problems.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="90" alt="Animated Pikachu" />
+</p>
+
+## About Me
+
+Hi, I'm **Eric Chhun**, an aspiring full-stack software engineer passionate about building practical, reliable, and real-world applications. I enjoy working across the stack, from responsive user interfaces to RESTful APIs, backend systems, databases, and embedded systems.
+
+I'm focused on writing clean, maintainable code, improving my problem-solving skills, and turning ideas into functional software that creates real value.
+
 
 ### What I Do
 
