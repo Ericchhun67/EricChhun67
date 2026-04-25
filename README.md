@@ -1,4 +1,11 @@
-# Hi there 👋, I'm Eric Chhun
+<h1 align="center">
+  Hi there 👋, I'm Eric Chhun
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Full-Stack+Software+Engineer;Building+web+apps+and+APIs;Always+learning+and+improving;Open+to+internships+and+collaboration" alt="Typing SVG" />
+</p>
+
 
 ## Full-Stack Software Engineer | Problem Solver | Continuous Learner
 
